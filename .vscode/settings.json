@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "limits": "c",
+    "type_traits": "c",
+    "stm32f1xx_hal.h": "c"
+  }
+}
