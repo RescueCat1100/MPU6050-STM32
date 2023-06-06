@@ -1,6 +1,6 @@
-#Endterm project for Embedded module \n
-##Trần Hiếu Minh - 20020172 \n
-##Nguyễn Anh Thắng \n
+# Endterm project for Embedded module
+## Trần Hiếu Minh - 20020172
+## Nguyễn Anh Thắng
 
-main.c file is in Core/Src
-related library file is in Core/Inc
+The `main.c` file is located in the `Core/Src` directory.
+The related library files are located in the `Core/Inc` directory.
